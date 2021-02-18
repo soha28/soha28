@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sohanshi28@gmail.com**
 
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/sohamsib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/sohamsib" height="30" width="40" /></a>
